@@ -40,5 +40,3 @@
 <img src="https://raw.githubusercontent.com/Cruzverme/Cruzverme/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-
-Profile Readme Generator
